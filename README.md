@@ -17,11 +17,14 @@ MLOps Project for NLP Model with Data from AG News is a collection of more than 
     -  Implemented behavioral tests using a popular open source library called checklist
 
 - ## Part 3:
-  - Project: xyz
-    - xyz
-    - xyz
+  - Project: Model deployment for the news classification model that we trained in part 1, and evaluated in part 2
+    - Built a simple web application backend using FastAPI and Uvicorn that wraps the trained model, and exposes an endpoint to make predictions on live traffic that is sent to the endpoint
+    - Wrapped the application in a Linux container using Docker. This will make it easier to deploy to a cloud environment later.
+    - Tested the Dockerized prediction service by sending it live traffic and logging the model predictions
 
 - ## Part 4:
-  - Project: xyz
-    - xyz
-    - xyz
+  - Project: Focused on model performance monitoring for the news classification model that was deployed in part 3
+    - Downloaded and parsed the training dataset, logs from prediction service that record inference traffic and annotations (ground truth labels for the inference traffic)
+    - Set up basic monitoring for system health (traffic volume, latency, SLA violations)
+    - Computed data and label drift for the inference traffic using a few different techniques (Chi-square statistic, KS-statistic, classifier-based drift detection)
+    - Analyzed model performance as a function of time for the inference traffic, and any ties we can derive to detected drift
