@@ -1,6 +1,6 @@
 
 
-# MLOps-News-Data-Classification-NLP-Model
+## MLOps News Data Classification NLP Model
 MLOps Project for NLP Model with Data from News Sources
 
 *Part 1:
