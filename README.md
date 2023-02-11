@@ -2,7 +2,8 @@
 
 
 ## MLOps News Data Classification NLP Model
-MLOps Project for NLP Model with Data from News Sources
+MLOps Project for NLP Model with Data from AG News is a collection of more than 1 million news articles gathered from more than 2000 news sources by an academic news search engine
+
 
 - ## Part 1:
   - Project: machine learning text classifier to predict news categories from the news article text.
