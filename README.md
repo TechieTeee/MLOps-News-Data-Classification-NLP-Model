@@ -9,3 +9,18 @@ MLOps Project for NLP Model with Data from AG News is a collection of more than 
   - Project: machine learning text classifier to predict news categories from the news article text.
     - Iterate on classification models with increasing level of complexity and improved performance.
     - Analyze the impact of training data size on model performance.
+
+- ## Part 2:
+  - Project: xyz
+    - xyz
+    - xyz
+
+- ## Part 3:
+  - Project: xyz
+    - xyz
+    - xyz
+
+- ## Part 4:
+  - Project: xyz
+    - xyz
+    - xyz
